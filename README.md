@@ -1,8 +1,12 @@
 # Transliteration-English-to-Hindi-
 The Main goal is to train a seq2seq model which takes as input the Romanized string and produces the corresponding word in native script.
-![B20BB030_DLOps_Assignment-1-1](https://github.com/Mobius-strip/Transliteration-English-to-Hindi-/assets/91667232/8a85a068-f9bf-4053-957f-3c15c5af1b17)![B20BB030_DLOps_Assignment-1-3](https://github.com/Mobius-strip/Transliteration-English-to-Hindi-/assets/91667232/db003971-6571-4adf-8339-f2c6a017ce53)
+![B20BB030_DLOps_Assignment-1-1](https://github.com/Mobius-strip/Transliteration-English-to-Hindi-/assets/91667232/8a85a068-f9bf-4053-957f-3c15c5af1b17)
 
 ![B20BB030_DLOps_Assignment-1-2](https://github.com/Mobius-strip/Transliteration-English-to-Hindi-/assets/91667232/98a37461-3c48-47dc-ac38-0d49693a1d73)
+
+![B20BB030_DLOps_Assignment-1-3](https://github.com/Mobius-strip/Transliteration-English-to-Hindi-/assets/91667232/db003971-6571-4adf-8339-f2c6a017ce53)
+
+
 ![B20BB030_DLOps_Assignment-1-4](https://github.com/Mobius-strip/Transliteration-English-to-Hindi-/assets/91667232/d21e0ba9-d3a6-493e-8838-7e8b310747ce)![B20BB030_DLOps_Assignment-1-5](https://github.com/Mobius-strip/Transliteration-English-to-Hindi-/assets/91667232/007dedd6-0d70-4d85-bc8e-a179199d5573)
 
 ![B20BB030_DLOps_Assignment-1-6](https://github.com/Mobius-strip/Transliteration-English-to-Hindi-/assets/91667232/62547534-0124-4c4d-ab31-f6a888f7936a)
